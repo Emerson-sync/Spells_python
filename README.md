@@ -1,2 +1,2 @@
-*Repositório para guardar meu aprendizado de spells aleatórios*
+# Repositório para guardar meu aprendizado de spells aleatórios*
 
